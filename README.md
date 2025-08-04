@@ -30,7 +30,7 @@ cd amigo-secreto
 
 # Execute a aplicação
 Abra a pasta do projeto, selecione o arquivo index.html e abra ele no navegador de sua escolha.
-
+```
 ---
 
 ## Sobre o desafio
