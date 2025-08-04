@@ -1,7 +1,10 @@
 # Amigo Secreto 🎁
 
-Aplicação desenvolvida como parte de um desafio técnico.  
+Aplicação desenvolvida como parte de um desafio técnico do programa Oracle Next Education + Alura.
+
 Permite adicionar nomes a uma lista e realizar um sorteio aleatório para definir o "amigo secreto".
+
+🔗 Acesse a aplicação online: [paulodiegosantos.github.io/Challenge-amigo-secreto](https://paulodiegosantos.github.io/Challenge-amigo-secreto/)
 
 ---
 
@@ -17,30 +20,34 @@ Permite adicionar nomes a uma lista e realizar um sorteio aleatório para defini
 
 ## Tecnologias
 
+- HTML5
+- CSS3
 - JavaScript (ES6+)
 
 ---
 
-## Como executar
+## Como executar localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/amigo-secreto.git
-cd amigo-secreto
+git clone https://github.com/paulodiegosantos/Challenge-amigo-secreto.git
+cd Challenge-amigo-secreto
+````
 
-# Execute a aplicação
-Abra a pasta do projeto, selecione o arquivo index.html e abra ele no navegador de sua escolha.
-```
+Em seguida, abra o arquivo `index.html` no navegador de sua escolha.
+
 ---
 
 ## Sobre o desafio
 
-O objetivo era implementar a lógica da aplicação via javascript:
+O objetivo era implementar a lógica da aplicação utilizando JavaScript puro, sem frameworks.
 
-1. Permita inserir nomes em uma lista visível;
-2. Impeça a inserção de nomes vazios;
-3. Sorteie um nome aleatório da lista;
-4. Mostre o resultado na tela.
+Requisitos:
+
+1. Permitir inserir nomes em uma lista visível;
+2. Impedir a inserção de nomes vazios;
+3. Sortear um nome aleatório da lista;
+4. Mostrar o resultado na tela.
 
 ---
 
